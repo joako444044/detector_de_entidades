@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../c-134 proyecto"
+		},
+		{
+			"path": "../c-131 identificacion de objetos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c-135 proyecto"
+	}
+}

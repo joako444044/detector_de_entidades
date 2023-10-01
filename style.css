@@ -1,0 +1,34 @@
+body
+{
+    background-image: url("126ea055ce1dbb6081620efa7aa6051e.jpg");
+    background-size: cover;
+}
+.titulo
+{
+    font-size: 30px;
+    width:100%;
+    text-align: center;
+    color: black;
+}
+.instrucciones
+{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+}
+#inp
+{
+width: 25%;
+border-radius: 20px;
+border-color: rgb(17, 255, 69);
+border-style: ridge;
+border-width: 10px;
+
+}
+canvas
+{
+    background-color: aliceblue;
+    border-color: rgb(0, 0, 0);
+    border-style: double;
+    border-width: 10px;
+    margin-top: 9%;
+}
